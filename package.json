@@ -1,0 +1,33 @@
+{
+  "name": "backbone-js-sample-app3",
+  "version": "0.0.1",
+  "description": "Backbone.js RESTful sample model #3.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.4.19",
+    "method-override": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/backboneApp3.git"
+  },
+  "keywords": [
+    "backbone.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/S035779/backboneApp3/issues"
+  },
+  "homepage": "https://github.com/S035779/backboneApp3#readme"
+}
